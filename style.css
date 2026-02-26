@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(255, 153, 0);
+    background-color: black;
+}
+
+h2 {
+    color: rgb(139, 173, 175);
+}
+
+body {
+    background-color: rgb(1, 42, 83);
+    color:rgb(0, 172, 172)
+}
+
+.center-text {
+  text-align: center;
+}
+
+a {
+    color: rgb(110, 173, 255);
+}
+
+.silvertext {
+    color:silver
+}
+
+.redtext {
+    color:rgb(93, 1, 1)
+}
+
+.yellowtext {
+    color:gold
+}
