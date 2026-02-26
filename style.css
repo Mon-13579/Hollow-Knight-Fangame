@@ -12,12 +12,12 @@ body {
     color:rgb(0, 172, 172)
 }
 
-.center-text {
-  text-align: center;
-}
-
 a {
     color: rgb(110, 173, 255);
+}
+
+.center-text {
+  text-align: center;
 }
 
 .silvertext {
