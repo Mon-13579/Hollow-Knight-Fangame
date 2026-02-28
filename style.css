@@ -16,10 +16,6 @@ a {
     color: rgb(110, 173, 255);
 }
 
-.center-text {
-  text-align: center;
-}
-
 .silvertext {
     color:silver
 }
@@ -30,4 +26,33 @@ a {
 
 .yellowtext {
     color:gold
+}
+.greentext {
+    color:rgb(6, 121, 0)
+}
+
+.orangetext {
+    color:goldenrod
+}
+
+.darkbluetext {
+    color:rgb(0, 0, 64)
+}
+
+.paletext {
+    color: rgb(255, 253, 227)
+}
+
+.voidtext {
+    color: black;
+}
+
+.titleheader {
+    color: rgb(255, 153, 0);
+    background-color: black;
+    text-align: center;
+}
+
+.center-text {
+  text-align: center;
 }
